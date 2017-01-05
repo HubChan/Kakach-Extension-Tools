@@ -2,8 +2,8 @@
 // @name Kakach Extension Tools
 // @author Original by postman, ayakudere, theanonym; forked by Ananim
 // @version 1.0.0 (ca)
-// @icon http://1chan.ca/ico/favicons/1chan.ru.gif
-// @downloadURL https://github.com/1chan-level-journalist/Kakach-Extension-Tools/raw/master/Kakachuserscript.user.js
+// @icon http://1chan.ca/ico/favicons/1chan.ca.gif
+// @downloadURL https://github.com/HubChan/Kakach-Extension-Tools/raw/master/Kakachuserscript.user.js
 // @include http://1chan.ca/*
 // @include https://1chan.ca/*
 // @grant       none
